@@ -13,6 +13,8 @@ Diferença entre maior e menor preço
 Distribuição e volatilidade dos preços
 Comparação entre diferentes tipos de combustíveis
 
+### EN
+
 ## Fuel Price Analysis 🚀⛽
 
 This project performs an analysis of a fuel dataset, including sale prices, state, region, product, using PySpark for large-scale data processing.
